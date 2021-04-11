@@ -1,0 +1,1 @@
+This is Hark's first git project!
